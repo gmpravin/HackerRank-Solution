@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - print",
+            "request": "launch",
+            "mainClass": "print",
+            "projectName": "HackerRank_4cb5b033"
+        }
+    ]
+}
