@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - datatype",
+            "request": "launch",
+            "mainClass": "datatype",
+            "projectName": "HackerRank_4cb5b033"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - loops2",
             "request": "launch",
             "mainClass": "loops2",
