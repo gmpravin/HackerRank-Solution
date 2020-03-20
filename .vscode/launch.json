@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - ifelse",
+            "request": "launch",
+            "mainClass": "ifelse",
+            "projectName": "HackerRank_4cb5b033"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - print",
             "request": "launch",
             "mainClass": "print",
